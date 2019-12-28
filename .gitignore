@@ -1,1 +1,4 @@
 .envrc
+*.tfstate
+*.backup
+.terraform
